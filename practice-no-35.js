@@ -1,5 +1,5 @@
 //  for loop break
-for(i= 30 ; i <= 86;i++
+for(var i= 30 ; i <= 86;i++
 )
 {
     if(i == 45){

@@ -1,8 +1,5 @@
- // while loop
-//  var i = 581;
-//  while(i <= 623){
-//      console.log(i)
-//      i+=2;
+// for(i= 412 ; i <= 456 ; i+=2){
+// console.log(i);
 //  }
 
 //  for loop
